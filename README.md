@@ -3,7 +3,7 @@ OPenCV and Edge Computing using YOLO11
 
 # YOLO11 on Raspberry Pi: Edge Object Detection
 
-Welcome to the **YOLO11 Edge Detection** project! This repository demonstrates how to run the powerful YOLO11 object detection model from Ultralytics on a Raspberry Pi, leveraging on-device inference for low-cost, high-efficiency computer vision. By eliminating latency and cloud costs, this project aims to democratize AI, empowering small businesses, research teams, and hobbyists to build intelligent systems with minimal resources.
+This repository demonstrates how to run the powerful YOLO11 object detection model from Ultralytics on a Raspberry Pi, leveraging on-device inference for low-cost, high-efficiency computer vision. By eliminating latency and cloud costs, this project aims to democratize AI, empowering small businesses, research teams, and hobbyists to build intelligent systems with minimal resources.
 
 In an era where edge computing is becoming the norm, solutions like this represent a leap toward ubiquitous, intelligent systems—bringing robust object detection to every corner of the world.
 
