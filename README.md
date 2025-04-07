@@ -22,7 +22,6 @@ In an era where edge computing is becoming the norm, solutions like this represe
 - Raspberry Pi (4 upwards recommended for better performance).
 - Python 3.7+ installed.
 - A camera module (e.g., Raspberry Pi Camera) or USB webcam.
-- Basic familiarity with Python and terminal commands.
 
 ## Essential Libraries
 - **OpenCV (`cv2`)**: Handles video frames, draws bounding boxes, and displays results.
