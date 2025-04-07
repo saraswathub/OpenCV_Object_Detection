@@ -37,4 +37,17 @@ In an era where edge computing is becoming the norm, solutions like this represe
 
 2. **Run the Detection Script**:
    ```bash
-   python3 detect.py --source 0  # Use 0 for webcam, or specify a video file path
+   python3 detect.py --source 0  # Use 0 for webcam, or specify a video file path## Customize Parameters (optional)
+3. Edit `detect.py` to adjust confidence thresholds, input sources, or display options.
+
+## Example Output
+- Video feed with bounding boxes around detected objects.
+- Real-time FPS displayed for performance monitoring.
+
+## Performance Tips
+- Use a Raspberry Pi 4 with 4GB or 8GB RAM for smoother performance.
+- Lower the input resolution (e.g., 320x320) to boost FPS on resource-constrained devices.
+- Consider using a lightweight YOLO11 model variant (e.g., YOLO11n) for faster inference.
+
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the codebase or add new features.
